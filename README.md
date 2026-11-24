@@ -18,6 +18,7 @@ I run [Forma Studio](https://formastdio.com), where I have designed and built li
 Most client code is private. Case studies are on [formastdio.com](https://formastdio.com/work).
 
 ### Open source
+- [FinanceFlow](https://github.com/Shibilimohdtp/financeflow): private, local-first personal finance app for India (Flutter, Riverpod, Isar, on-device SMS parsing, encrypted backups)
 - [Group Expense Splitter](https://github.com/Shibilimohdtp/group-expense-splitter): bill-splitting app built with Flutter and Firebase (four split methods, receipts, QR group invites)
 
 ### Contact
