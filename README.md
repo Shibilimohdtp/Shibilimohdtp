@@ -1,6 +1,6 @@
 # Hi, I'm Shibili
 
-Front-end and Flutter developer from Kerala, India. I design and build websites and apps end to end.
+Front-end and Flutter developer from Kerala, India, relocating to Dubai in December 2026. I design and build websites and apps end to end.
 
 I run [Forma Studio](https://formastdio.com), where I have designed and built live websites for clients in India and the US, and I have freelanced on Fiverr since 2020 (288 orders, rated 5.0 from 210 reviews).
 
@@ -15,10 +15,10 @@ I run [Forma Studio](https://formastdio.com), where I have designed and built li
 - [bridgeed.us](https://www.bridgeed.us): interactive landing page for a US education-data company
 - [hamstringfitness.in](https://hamstringfitness.in): gym website with class schedule and pricing
 
-Most client code is private. Case studies are on [formastdio.com](https://formastdio.com/work).
+Most client code is private. Case studies are on [formastdio.com](https://formastdio.com).
 
 ### Open source
-- [FinanceFlow](https://github.com/Shibilimohdtp/financeflow): private, local-first personal finance app for India (Flutter, Riverpod, Isar, on-device SMS parsing, encrypted backups)
+- [FinanceFlow](https://github.com/Shibilimohdtp/financeflow): local-first personal finance app (Flutter, Riverpod, Isar, on-device SMS parsing, encrypted backups, biometric lock)
 - [Group Expense Splitter](https://github.com/Shibilimohdtp/group-expense-splitter): bill-splitting app built with Flutter and Firebase (four split methods, receipts, QR group invites)
 
 ### Contact
