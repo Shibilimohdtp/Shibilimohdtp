@@ -18,7 +18,7 @@ I run [Forma Studio](https://formastdio.com), where I have designed and built li
 Most client code is private. Case studies are on [formastdio.com](https://formastdio.com/work).
 
 ### Open source
-- [SplitWise](https://github.com/Shibilimohdtp/SplitWise): bill-splitting app built with Flutter and Firebase
+- [Group Expense Splitter](https://github.com/Shibilimohdtp/group-expense-splitter): bill-splitting app built with Flutter and Firebase (four split methods, receipts, QR group invites)
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/shibilimohdtp) · shibilimuhammed121@gmail.com
